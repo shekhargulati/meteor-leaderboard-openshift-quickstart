@@ -25,7 +25,7 @@
   "dependencies": {
     "express": "*",
     "meteor": ">=0.5.2",
-    "fibers": "~1.0.0"
+    "fibers": "~0.6.9"
   },
   "devDependencies": {},
   "bundleDependencies": [],
