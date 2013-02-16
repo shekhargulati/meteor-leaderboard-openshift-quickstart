@@ -25,7 +25,8 @@
   },
 
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "meteor": ">=0.5.4"
   },
   "devDependencies": {},
   "bundleDependencies": [],
